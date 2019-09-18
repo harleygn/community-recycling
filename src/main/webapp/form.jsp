@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>A form</h1>
-<form action="processForm.jsp" method="GET">
+<form action="HelloForm" method="GET">
         Email <input type="email" name="email">
         <br>
         Name <input type="text" name="name">
