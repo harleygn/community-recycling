@@ -1,6 +1,6 @@
-# ECM2429-hello-web
+# Community Recycling
 
-A hello world style example for Java servlets
+A website that allows members of the local community to list their unwanted items for others to reuse.
 
 ## Directory structure
 
